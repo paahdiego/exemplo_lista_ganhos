@@ -20,4 +20,6 @@ class GanhosController {
       print(ganho.toString());
     }
   }
+
+  void editarGanho() {}
 }
