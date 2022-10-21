@@ -22,4 +22,6 @@ class GanhosController {
   }
 
   void editarGanho() {}
+
+  void excluirGanho() {}
 }
